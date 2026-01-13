@@ -11,9 +11,9 @@
 
 ---
 
-### 👨‍💻 About Me
-I'm a CS Student (AI & ML) and Developer.
+I'm a CS Student at VIT Chennai and a Frontend Developer at **Nexus VIT**. I love building web apps and solving problems in Python & C.
 
-- 🔭 I’m currently organizing **Nexathon 2026**
-- 🌱 I’m currently learning **Java & Backend Ops**
-- 🤝 I’m looking to collaborate on **Student Developer Tools**
+- 🔭 I’m currently working on **Nexathon 2026**
+- 🌱 I’m currently learning **Java & Backend Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Frontend Tech & Python**
